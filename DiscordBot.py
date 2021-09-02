@@ -100,4 +100,4 @@ async def contra(ctx, jogando_c, contra_c, lane_c):
     embed.add_field(name=f'{contra_c} Win Percent', value=f'{result[9]}', inline=True)
 
     await ctx.send(embed=embed)
-client.run('ODc1NzU2MDA4NjI5MjE1MzMz.YRaJVw._SIAzHn2FabwfYIF06yEOTwQxC4')
+client.run('TOKEN DO BOT')
